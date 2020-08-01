@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="auth/app" />
+      <module fileurl="file://$PROJECT_DIR$/auth.iml" filepath="$PROJECT_DIR$/auth.iml" group="auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-441892887/chooserx.iml" filepath="$PROJECT_DIR$/.idea/modules/-441892887/chooserx.iml" group="auth/internal/chooserx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/internal/internal.iml" filepath="$PROJECT_DIR$/.idea/modules/internal/internal.iml" group="auth/internal" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/268573519/lint.iml" filepath="$PROJECT_DIR$/.idea/modules/268573519/lint.iml" group="auth/internal/lint" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-794369926/lintchecks.iml" filepath="$PROJECT_DIR$/.idea/modules/-794369926/lintchecks.iml" group="auth/internal/lintchecks" />
+    </modules>
+  </component>
+</project>
